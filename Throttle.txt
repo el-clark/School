@@ -1,0 +1,59 @@
+Mower:
+Checking to see if the mower is on...
+Hey I'm Off!
+
+Shifting below zero...
+0% Throttle
+
+Shifting above six...
+100% Throttle
+
+Checking to see if the mower is on...
+Hey I'm On!
+
+Shifting down one gear...
+83.3% Throttle
+
+Shutting off the mower...
+Hey I'm Off!
+
+
+Truck:
+Checking to see if the Truck is on...
+Hey I'm Off!
+
+Shifting below zero...
+0% Throttle
+
+Shifting above 18...
+100% Throttle
+
+Checking to see if the Truck is on...
+Hey I'm On!
+
+Shifting down five gears...
+72.2% Throttle
+
+Shutting off the Truck...
+Hey I'm Off!
+
+
+Space Shuttle:
+Checking to see if the Space Shuttle is on...
+Hey I'm On!
+
+Shifting below zero...
+0% Throttle
+
+Shifting above 100...
+100% Throttle
+
+Checking to see if the Space Shuttle is on...
+Hey I'm On!
+
+Shifting down 35 gears...
+65% Throttle
+
+Shutting off the Space Shuttle..
+Hey I'm Off!
+
