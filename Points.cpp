@@ -58,17 +58,20 @@ public:
 
 	// Rotate method
 	void Rotate(char axis, int degs){
+		// Convert degrees to radians
+		double rad = (degs * M_PI) / 180;
+
 		if (axis == 'x'){
-			y = y * cos(degs) - z * sin(degs);
-			z = y * sin(degs) + z * cos(degs);
+			y = y * cos(rad) - z * sin(rad);
+			z = y * sin(rad) + z * cos(rad);
 		}// End if
 		else if (axis == 'y'){
-			x = x * cos(degs) + z * sin(degs);
-			z = -x * sin(degs) + z * cos(degs);
+			x = x * cos(rad) + z * sin(rad);
+			z = -x * sin(rad) + z * cos(rad);
 		}// End else if
 		else{
-			x = x * cos(degs) - y * sin(degs);
-			y = x * sin(degs) + y * cos(degs);
+			x = x * cos(rad) - y * sin(rad);
+			y = x * sin(rad) + y * cos(rad);
 		}// End else
 	}// End Rotate method
 };// End Point Class
