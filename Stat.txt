@@ -1,0 +1,63 @@
+Statistician 1:
+Data set 1:
+Sum: 30.8
+Length: 7
+Average: 4.4
+
+Statistician 1:
+Data set 2:
+Sum: 32.9
+Length: 12
+Average: 2.74167
+
+Copying statistician 1 to a new statistician 2:
+Statistician 1:
+Sum: 32.9
+Length: 12
+
+Statistician 2:
+Sum: 32.9
+Length: 12
+
+
+Statistician 2:
+Data set1:
+Sum: 324.9
+Length: 22
+Average: 14.7682
+
+Statistician 1:
+Sum: 32.9
+Length: 12
+
+Statistician 2:
+Sum: 324.9
+Length: 22
+
+
+Adding two statisticians together (stat1 + stat2):
+Statistician 1:
+Sum: 32.9
+Length: 12
+
+Statistician 2:
+Sum: 324.9
+Length: 22
+
+Statistician 3:
+Sum: 357.8
+Length: 34
+
+
+Erasing statistician 2:
+Statistician 1:
+Sum: 32.9
+Length: 12
+
+Statistician 2:
+Sum: 0
+Length: 0
+
+Statistician 3:
+Sum: 357.8
+Length: 34

@@ -1,0 +1,40 @@
+
+Comparing (==) myThrottle and Truck using the explicit call..
+Match!
+
+Comparing (==) myThrottle and Truck using the implicit call..
+Match!
+
+Comparing (==) myThrottle and Car using the explicit call..
+No Match!
+
+Comparing (==) myThrottle and Car using the implicit call..
+No Match!
+
+Comparing (!=) myThrottle and Truck using the explicit call..
+Match!
+
+Comparing (!=) myThrottle and Truck using the implicit call..
+Match!
+
+Comparing (!=) myThrottle and Car using the explicit call..
+No Match!
+
+Comparing (!=) myThrottle and Car using the implicit call..
+No Match!
+
+Truck:
+Start     Max
+0         30
+
+myThrottle:
+Start     Max
+0         30
+
+Car:
+Start     Max
+0         6
+
+Space Ship:
+Start     Max
+6         20
