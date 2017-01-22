@@ -58,7 +58,7 @@ public:
 
 	//Shut off method
 	void ShutOff(){
-		pos = 0;																																																																	pos = 0;
+		pos = 0;
 	}// End ShutOff method
 
 
