@@ -1,0 +1,55 @@
+
+Fill array with 10 
+10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 
+
+
+Add 1 to first 10 elements 
+11 11 11 11 11 11 11 11 11 11 10 10 10 10 10 10 10 10 10 10 
+
+
+Fill array with 1 to 20 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+
+Print reverse order 
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+
+Zero out array 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+
+Fill array with ???? 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+
+Print reverse order 
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+
+Copy p to s and print p and s
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+
+Fill array with <-> 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+
+Min for previous table 1
+Max for previous table 19
+Sum for previous table 138
+Average for previous table 11
+How many array values are equal to the average?
+         cnt = 1
+
+New Table:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+There are 9 values that are less than the average of 10.
+
+Load grades into an array:
+80 85 90 94 87 87 92 90 83 83 85 87 83 83 83 
+
+The average is: 86
