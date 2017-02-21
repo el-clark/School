@@ -1,0 +1,25 @@
+Sum:
+3/8 + 4/7 = 53/56
+
+Product:
+1/5 * 4/12 = 4/60
+
+Quotient:
+4/12 / 3/5 = 20/36
+
+Difference:
+1/5 - 3/8 = -7/40
+
+a+b*f-d = 2332/672
+
+d / a + c = 196/180
+
+g:
+3/0
+
+Comparing 4/12 to 4/7
+4/12 does not equal 4/7
+
+
+Comparing 3/5 to 3/8
+3/5 does not equal 3/8
