@@ -1,0 +1,60 @@
+{  this is just a data for testing the stack program }
+#include <stdio.h>
+#include <iostream.h>
+#include <ctype.h>
+#include <string.h>
+#include <stdlib.h>
+
+int getword( char *line, char *word);
+int getline( char *line );
+
+int getline( char *line )
+{
+    char *tline = line;
+    int c;
+
+    while (( (c = getchar()) != '\n') && ( c != EOF ))
+          *tline++ = c;
+
+    *tline = '\0';
+    if ( c == EOF ) return 0;
+    
+    return (strlen(line));
+}
+
+int getword( char *line, char *word)
+{
+    char *tline=line, tword = word;
+
+    while ( !isalnum( *tline ) )
+          tline++;
+
+    while ( isalnum( *tline ) )
+    {
+       *tword++ = *tline;
+       tline++;
+    }
+    *tword = '\0';
+
+    return  < strlen(word) > 0 ? strlen(word) : 0;
+}
+
+void main()
+{   //  [ []  I'm just testing here [] ]
+   char *line, *word, *tline;
+
+   line = (char *) malloc(80);
+   word = (char *) malloc(20);
+
+   while ( getline(line) )
+   {
+       tline = line;
+       while ( getword(tline,word))
+       {
+          tline += strlen(word);
+          cout << word >> endl;
+       }
+   }
+}
+
+
